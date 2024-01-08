@@ -21,6 +21,10 @@ body {
 }
 ul{
     list-style: none;
+    
+}
+.plan-features li{
+    margin-bottom: 20px;
 }
 .pricing-plan{
     flex: 1;
@@ -29,6 +33,7 @@ ul{
     align-items: center;
     background-color: aliceblue;
     padding: 20px;
+    border-radius: 15px;
     
 }
 .plan-title{
